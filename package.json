@@ -1,0 +1,18 @@
+{
+  "name": "backend-primera-entrega-comision-70140-monica-yanez",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^2.0.22"
+}
+}

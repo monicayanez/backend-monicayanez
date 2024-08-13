@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Cocina",
+    "price": 600
+  },
+  {
+    "id": 2,
+    "title": "Lavarropas",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "title": "Mesa",
+    "price": 500,
+    "status": true
+  }
+]
