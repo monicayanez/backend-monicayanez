@@ -14,5 +14,29 @@
     "title": "Mesa",
     "price": 500,
     "status": true
+  },
+  {
+    "id": 4,
+    "title": "Silla",
+    "price": 400,
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Televisor",
+    "price": 900,
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Computadora",
+    "price": 800,
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Lampara",
+    "price": 400,
+    "status": true
   }
 ]
